@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Developer | Passionate Problem Solver | Innovator I’m a self-taught Flutter developer with a passion for crafting intuitive, user-friendly mobile app
+React-focused Frontend Engineer crafting fast, accessible, and scalable web experiences with React, TypeScript, and Tailwind CSS.
 
 
 ## 🌐 Socials:
